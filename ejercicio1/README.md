@@ -6,4 +6,4 @@ git commit README.md
 
 
 
-"Version inicial"
+"Agregar solucion al ejercicio"
